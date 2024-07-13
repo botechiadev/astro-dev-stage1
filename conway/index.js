@@ -6,3 +6,5 @@ const AUTHOR ={
         urlPath: "https://github.com/botechiaDEV"
     }
 }
+
+console.log(AUTHOR)
