@@ -4,6 +4,29 @@
         "tema": "variaveis",
         "mod": "M1",
         "aula": "a003",
-        ""
+        "branch": "a003_variaveis",
+        "responsable": "@BotechiaDEV",
+        "repo": "https://github.com/botechiadev/astro-dev-stage1/",
+        "directory": "conway/aulas/",
+        "items": [
+                    {
+                        "id": "pg1",
+                        "descricao": "Como declarar e inicializar variaveis em JavaScript",
+                        "status" : 1,
+                        "urlPath":  ""
+                    },
+                    {
+                        "id": "pg2",
+                        "descricao": "Como fazer perguntas de Sim ou Não e armazenar as respostas em variaveis",
+                        "status": 1,
+                        "urlPath":  ""
+                    },
+                    {
+                        "id": "pg3",
+                        "descricao": "Como imprimir perguntas e respostas na tela",
+                        "status":1,
+                        "urlPath":1
+                    }
+        ]
     }
 ]
